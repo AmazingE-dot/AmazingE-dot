@@ -7,21 +7,9 @@ Soy un apasionado de la programación web en constante evolución y estudiante u
 
 
 # 📊 GitHub Stats:
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=AmazingE-dot&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmazingE-dot&theme=dracula&hide_border=true" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingE-dot&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-    </td>
-  </tr>
-</table>
+![](https://github-readme-stats.vercel.app/api?username=AmazingE-dot&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AmazingE-dot&theme=dracula&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingE-dot&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
