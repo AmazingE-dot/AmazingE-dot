@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy un apasionado de la programación web en constante evolución y estudiante universitario de octavo semestre.<br>Con 24 años de edad, me apasiona aprender nuevos lenguajes y tecnologías.<br>Actualmente, trabajo en CEMID, donde colaboro en diversas áreas de la ingeniería de sistemas, lo que me permite aplicar mis conocimientos teóricos en entornos prácticos.
+Soy un apasionado de la programación web en constante evolución y estudiante universitario de octavo semestre.<br>Con 24 años de edad, me apasiona aprender nuevos lenguajes y tecnologías.<br>Actualmente, trabajo en la CEMID (Corporación educativa minuto de dios), donde colaboro en diversas áreas de la ingeniería de sistemas, lo que me permite aplicar mis conocimientos teóricos en entornos prácticos.
 
 
 # 💻 Tech Stack:
