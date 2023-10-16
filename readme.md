@@ -7,8 +7,6 @@ Soy un apasionado de la programación web en constante evolución y estudiante u
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AmazingE-dot&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)</br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AmazingE-dot&theme=dracula&hide_border=true)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingE-dot&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
