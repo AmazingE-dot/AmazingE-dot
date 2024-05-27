@@ -1,5 +1,5 @@
 # 👩‍💻 Sobre mi:
-Soy un apasionado de la programación web en constante evolución y estudiante universitario de noveno semestre.<br>Con 24 años de edad, me apasiona aprender nuevos lenguajes y tecnologías.<br>Actualmente, trabajo en la CEMID (Corporación educativa minuto de dios), donde colaboro en diversas áreas de la ingeniería de sistemas, lo que me permite aplicar mis conocimientos teóricos en entornos prácticos.
+Soy un apasionado de la programación web en constante evolución, estudiante universitario de noveno semestre y tengo diversas certificaciones por el MINTIC como desarrollador con énfasis en desarrollo web, desarrollador de aplicaciones web y desarrollador de software.<br>Con 24 años de edad, me apasiona aprender nuevos lenguajes y tecnologías.<br>Actualmente, trabajo en la CEMID (Corporación educativa minuto de dios), donde colaboro en diversas áreas de la ingeniería de sistemas, lo que me permite aplicar mis conocimientos teóricos en entornos prácticos.
 
 
 # 💻 Stack tecnológico:
